@@ -1,13 +1,16 @@
 body {
     background-color: #ffffee;
 }
+h2{
+	text-align:center;
+}
 #deft {
     float: left;
     font-size: 1.4em;
     margin-right: 30px;
     background-color: #eeeedd;
     width: 30em;
-    height: 30em;
+    height: 60em;
     position: relative;
 }
 #buffers {
