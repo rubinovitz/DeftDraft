@@ -9,8 +9,8 @@ h2{
     font-size: 1.4em;
     margin-right: 30px;
     background-color: #eeeedd;
-    width: 30em;
-    height: 60em;
+    width: 60em;
+    height: 30em;
     position: relative;
 }
 #buffers {
